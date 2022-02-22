@@ -20,6 +20,8 @@ Trailer:
 
 [![Andrea-s-Asian-Drama-Watchlist-kit](https://img.youtube.com/vi/49_44FFKZ1M/0.jpg)](https://www.youtube.com/watch?v=49_44FFKZ1M)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/49_44FFKZ1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 You can use the [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
