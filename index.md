@@ -7,12 +7,13 @@ Welcome to Andrea's Asian drama watchlist kit. Each drama is a rollercoaster rid
 3. Softwares or apps to watch
 
 # **Asian drama Suggestions!**
+# **(Japanese)**
 ## 1. Alice in the Borderland
 **Synopsis:** Arisu—a listless, jobless and video-game-obsessed young man—suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to survive. In this strange world, Arisu meets Usagi, a young woman who’s navigating the games alone. Together, they set out to unravel one mystery after another as they risk their lives and confront what it means to live. Adapted from the manga series "Imawa no Kuni no Alice" by Haro Aso.
 
 **Genre:**  Action, Mature, Mystery, Psychological, Supernatural, Survival, Suspense, Thriller
 
-This is a Japanese drama. My personal comment for this, is that the series is thrilling and interesting. This is something that you should really watch!
+My personal comment for this, is that the series is thrilling and interesting. This is something that you should really watch!
 
 ![aib](https://user-images.githubusercontent.com/99865483/155063437-63cd47bc-7612-40b5-8ed9-c7c53202d56c.jpg)
 
@@ -27,7 +28,7 @@ This is a Japanese drama. My personal comment for this, is that the series is th
  
 **Genre:**  Crime, Drama
 
-Another Japanese drama. This is a good one a personal fav.
+This is a good one a personal fav.
 
 ![3nenagumi](https://user-images.githubusercontent.com/99865483/155071729-6aac2908-3926-4267-8c14-ae9ad694eef1.jpg)
 
@@ -35,6 +36,19 @@ Another Japanese drama. This is a good one a personal fav.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xp7P5Ny5bDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+## 3. The Door into summer 
+
+**Synopsis:** In 1995, Takakura Soichiro is a scientist who works on developing a robot. He is also on the verge of completing a plasma battery, following on the wishes of the deceased Matsushita. Matsushita was a friend of Takakura's late father and raise Takakura as his son. Outside of work, Soichiro Takakura has peaceful days with his cat Pete, his girlfriend, Shiraishi san, and Riko the daughter of Matsushita. He is soon betrayed by his business partner and by his girlfriend, Takakura loses control of his company and the work he has done on the robot and plasma battery. Takakura then opts to place himself into a "cold sleep" freezing machine, hoping to find a better future. When he wakes up, he discovers that he is in the year 2025. Adapted from the novel "The Door into Summer" by Robert A. Heinlein.
+ 
+**Genre:**   Drama, Novel, Sci-fi, Time Travel
+
+The movie was awesome. A sci-fi movie that should be watched. go go!
+
+![doorintosummer](https://user-images.githubusercontent.com/99865483/155134705-8dce918a-01d0-4c1b-acc4-1648c6b23e48.PNG)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g5Fhl6VKjH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Turn on captions in the trailer for english subtitles)
 
 [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
