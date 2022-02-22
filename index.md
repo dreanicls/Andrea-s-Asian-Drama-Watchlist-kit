@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+## A Good kit to Start Asian Drama!!
+Welcome to Andrea's Asian drama watchlist kit. Each drama is a rollercoaster ride of emotions. Enjoy your stay and have a good time:)
+
+#This site composes the following
+1. Asian Drama suggestions
+2. Sites to watch
+3. Softwares to watch
+
+## Asian drama Suggestions!
+# 1. Alice in the Borderland
+
 
 You can use the [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
