@@ -14,7 +14,7 @@ Genre:  Action, Mature, Mystery, Psychological, Supernatural, Survival, Suspense
 
 This is a Japanese drama. My personal comment for this, is that the series is thrilling and interesting. This is something that you should really watch!
 
-![Image](<file:///C:/Users/Andrea%20Trish/Downloads/aib.jpg>)
+![aib](https://user-images.githubusercontent.com/99865483/155063437-63cd47bc-7612-40b5-8ed9-c7c53202d56c.jpg)
 
 Trailer:
 [Link] (<iframe width="560" height="315" src="https://www.youtube.com/embed/49_44FFKZ1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>) 
