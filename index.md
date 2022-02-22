@@ -14,10 +14,10 @@ Genre:  Action, Mature, Mystery, Psychological, Supernatural, Survival, Suspense
 
 This is a Japanese drama. My personal comment for this, is that the series is thrilling and interesting. This is something that you should really watch!
 
-![<file:///C:/Users/Andrea%20Trish/Downloads/aib.jpg>]
+![Image](<file:///C:/Users/Andrea%20Trish/Downloads/aib.jpg>)
 
 Trailer:
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/49_44FFKZ1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
+[Link] (<iframe width="560" height="315" src="https://www.youtube.com/embed/49_44FFKZ1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>) 
 
 You can use the [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
