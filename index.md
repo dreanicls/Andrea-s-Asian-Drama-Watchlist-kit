@@ -17,7 +17,8 @@ This is a Japanese drama. My personal comment for this, is that the series is th
 ![aib](https://user-images.githubusercontent.com/99865483/155063437-63cd47bc-7612-40b5-8ed9-c7c53202d56c.jpg)
 
 Trailer:
-[Link] (<iframe width="560" height="315" src="https://www.youtube.com/embed/49_44FFKZ1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>) 
+
+[![Andrea-s-Asian-Drama-Watchlist-kit](https://img.youtube.com/vi/49_44FFKZ1M/0.jpg)](https://www.youtube.com/watch?v=49_44FFKZ1M)
 
 You can use the [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
