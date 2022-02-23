@@ -50,6 +50,20 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g5Fhl6VKjH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Turn on captions in the trailer for english subtitles)
 
+
+## 3. Our 30-minute Sessions
+
+**Synopsis:** Aki Miyata was a musician and died 1 year ago. He had a bright and positive personality. Sota Kubota is a university student. He is not good at socializing with people. One day, Sota Kubota picks up a cassette tape, which was left by Aki Miyata. If Sota Kubota plays the cassette tape, Aki Miyata’s spirit takes over Sota Kubota's body for only 30 minutes. With Aki Miyata's spirit in his body, Sota Kubota goes to see Aki's former girlfriend Kana Murase and his other bandmates.
+ 
+**Genre:**   Music, Romance, Youth
+
+![our30minutesessions](https://user-images.githubusercontent.com/99865483/155308534-2c0b1a3d-2135-4089-b473-bdd6181839be.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eEIs4DC4uQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Turn on captions in the trailer for english subtitles)
+
+
 [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
