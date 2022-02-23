@@ -7,7 +7,7 @@ Welcome to Andrea's Asian drama watchlist kit. Each drama is a rollercoaster rid
 3. Softwares or apps to watch
 
 
-# **Tou can watch Here!**
+# **You can watch Here!**
 ## **Websites**
 ## 1. Dramanice (most recommended)
 [Watch asian drama online free - Asian movies english sub](https://dramanice.cx/about-us)
