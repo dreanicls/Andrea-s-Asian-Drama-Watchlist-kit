@@ -6,6 +6,27 @@ Welcome to Andrea's Asian drama watchlist kit. Each drama is a rollercoaster rid
 2. Sites to watch
 3. Softwares or apps to watch
 
+
+# **Tou can watch Here!**
+## **Websites**
+## 1. Dramanice (most recommended)
+[Watch asian drama online free - Asian movies english sub](https://dramanice.cx/about-us)
+
+## 2. Dramacool
+[DramaCool - watch asian drama online in high quality](https://dramacool.ac/)
+
+## 3. Kissasian
+[Kissasian.sh: Watch asian drama and shows free in HD (2022)](https://kissasian.la/)
+
+## **Apps/Software**
+## 1. Stremio (Not all are available but it has many)
+[Downloads - Stremio - All You Can Watch](https://www.stremio.com/downloads)
+
+## 2. Viu (recommended)
+
+## 2. Netflix (recommended)
+
+
 # **Asian drama Suggestions!**
 # **(Japanese)**
 ## 1. Alice in the Borderland
@@ -20,6 +41,7 @@ My personal comment for this, is that the series is thrilling and interesting. T
 **Trailer:**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49_44FFKZ1M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(No eng subtitles,sorry)
 
 
 ## 2.Hiiragi's Homeroom (3 Nen A Gumi: Ima kara Mina-san wa, Hitojichi Desu)
@@ -34,6 +56,7 @@ This is a good one a personal fav.
 
 **Trailer:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xp7P5Ny5bDw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(No eng subtitles, sorry)
 
 
 ## 3. The Door into summer 
@@ -63,7 +86,7 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eEIs4DC4uQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Turn on captions in the trailer for english subtitles)
 
-## 4. My little monster
+## 5. My little monster
 
 **Synopsis:** Mizutani Shizuku is a self-absorbed overachiever, concerned only with maintaining the highest grades in school. Yoshida Haru is an impulsive short tempered brute, who scares everyone with his explosive bursts of violence.Haru gets suspended on the first day of school when he encounters some bullies harassing a student and dispatches the bullies with great bloody violence. Mizutani is tasked with delivering school materials to Haru who interprets this as an act of friendship and latches on to Mizutani, much to her dismay. And so begins a strange and potentially combustible relationship!
  
@@ -75,39 +98,113 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cu_j-q_UpGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Embedded with subtitles)
 
+## 6. You Are the Apple of My Eye (JP)
 
-[editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Synopsis:** Based on the successful Taiwanese movie of the same name, in Japan in the early 2000s Kosuke Mizushima is a popular yet childish high school student living a comfortable life. He wants to start a relationship with his classmate, but she's a serious honors student.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Genre:**    Drama, Music, Romance, School, Youth
 
-### Markdown
+![youaretheappleofmyeye](https://user-images.githubusercontent.com/99865483/155338576-0f37775b-5390-400b-bacf-725c07b31a2c.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vVD67I5fA-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(No eng subtitles, sorry)
 
-```markdown
-Syntax highlighted code block
+## 7. 12 Suicidal Children
 
-# Header 1
-## Header 2
-### Header 3
+**Synopsis:** The story is a locked-room mystery where 12 kids go into an abandoned hospital to give up on life. In the room where they meet, a boy is already lying dead, and no one knows who he is.
 
-- Bulleted
-- List
+**Genre:**  Friendship, Investigation, life, Mystery, Psychological
 
-1. Numbered
-2. List
+![12SuicidalTeens09](https://user-images.githubusercontent.com/99865483/155341878-5b4898c5-2c71-41c0-acf6-dbdf0bb9c20c.jpg)
 
-**Bold** and _Italic_ and `Code` text
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tlXwSOVZMPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Turn on captions for english subtitles)
 
-[Link](url) and ![Image](src)
-```
+## Watchlist is updated overtime, so by the time you finish it all there will be more!;)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+# **(Korean Drama)**
+## 1. Record of youth
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Synopsis:** Youth Record follows the lives of young people in the world of modeling. Sa Hye Joon is smart and handsome. He is a nice guy and a popular model, but what he really wants is to become an actor. He has auditioned for many acting roles, but hasn't found success yet. Unfortunately, Sa Hye Joon doesn't have much presence as an actor. Meanwhile, An Jung-Ha works as a make-up artist.
 
-### Support or Contact
+**Genre:**   Drama, Family, Fashion, melodrama, Romance, Youth
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![recordofyouth](https://user-images.githubusercontent.com/99865483/155344645-1467aba1-5d34-4b39-bde8-ffa0f3ffc6a0.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tahWtPeNkM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with english subtitles)
+
+## 2. Our Beloved Summer
+**Synopsis:** Years after filming a viral documentary in high school, two former lovers get pulled back in front of the camera and into each other's lives.
+
+**Genre:**   Comedy, Drama, Romance, Youth
+
+![belovedsummer12](https://user-images.githubusercontent.com/99865483/155346300-989584fa-430c-4b68-a4b3-83846f051b91.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lr5n2V8Q2Pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Turn on captions for eng sub)
+
+## 3. All of us are dead
+**Synopsis:** about a group of high school students who are faced with an extreme crisis situation when they become trapped in their school, while a zombie virus spreads like a wildfire. Adapted from the Korean webtoon called Now at Our School.
+
+**Genre:**  Drama, Horror, Suspense, Youth, Zombie
+
+![allofusaredead](https://user-images.githubusercontent.com/99865483/155347336-10e1f19f-62bf-4b02-920c-98ef3bdf621f.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IN5TD4VRcSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with eng sub)
+
+## 4. Squid Game
+**Synopsis:** Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.
+
+**Genre:**  Action, Adventure, Childhood, Drama, Mystery, Survival, Thriller, Web Series
+
+![squid-game](https://user-images.githubusercontent.com/99865483/155348235-82364501-d0b1-4176-b9cc-8445858c2869.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oqxAJKy0ii4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with eng sub)
+
+## 5. Itaewon Class
+**Synopsis:** An ex-con and his friends fight to make their ambitious dreams for their street bar a reality.
+
+**Genre:**   Drama, Food, life, Revenge, Youth
+
+![itaewonclass](https://user-images.githubusercontent.com/99865483/155349445-e98e1274-ded7-4f25-9089-fd40d04c5262.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NeaHNQJ1kCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with eng sub)
+
+## 6. True beauty
+**Synopsis:** A female student's life changes as she learns make-up techniques. Jugyeong lives hidden behind the make-up from her hurtful past, and Suho also loses joy from his hurtful past. The two rely on each other, sharing their secrets.
+
+**Genre:**   Comedy, Drama, Romance, School, Youth
+
+![trubeauty](https://user-images.githubusercontent.com/99865483/155350207-59029a69-f234-4567-93ec-e4c3fd76c2a8.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mSjpPFEDtkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with eng sub)
+
+## 7. Weightlifting Fairy Kim Bok Joo
+**Synopsis:** A coming-of-age story about a group of college athletes who are fighting for their dreams, experiencing and finding love in the process.
+
+**Genre:**  Comedy, Friendship, Romance, School, Sismance, Sports, Tomboy, Youth
+
+![weightliftingfairy](https://user-images.githubusercontent.com/99865483/155351448-204d5868-6f9b-4022-a701-83107d4f8a7b.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6t5dLenA85Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with eng sub)
+
+## Watchlist is updated overtime, so by the time you finish it all there will be more!;)
+
+
+
