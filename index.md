@@ -122,7 +122,7 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tlXwSOVZMPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Turn on captions for english subtitles)
 
-## Watchlist is updated overtime, so by the time you finish it all there will be more!;)
+## Watchlist is updated over time, so by the time you finish it all there will be more!;)
 
 
 # **(Korean Drama)**
@@ -204,7 +204,7 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6t5dLenA85Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Embedded with eng sub)
 
-## Watchlist is updated overtime, so by the time you finish it all there will be more!;)
+## Watchlist is updated over time, so by the time you finish it all there will be more!;)
 
 
 
