@@ -28,8 +28,6 @@ Welcome to Andrea's Asian drama watchlist kit. Each drama is a rollercoaster rid
 
 
 # **Asian drama Suggestions!**
-<summary>Japanese Drama!</summary>
-
 # **(Japanese)**
 ## 1. Alice in the Borderland
 **Synopsis:** Arisu—a listless, jobless and video-game-obsessed young man—suddenly finds himself in a strange, emptied-out version of Tokyo in which he and his friends must compete in dangerous games in order to survive. In this strange world, Arisu meets Usagi, a young woman who’s navigating the games alone. Together, they set out to unravel one mystery after another as they risk their lives and confront what it means to live. Adapted from the manga series "Imawa no Kuni no Alice" by Haro Aso.
