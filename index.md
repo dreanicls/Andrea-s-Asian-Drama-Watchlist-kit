@@ -10,17 +10,17 @@ Welcome to Andrea's Asian drama watchlist kit. Each drama is a rollercoaster rid
 # **You can watch Here!**
 ## **Websites**
 ### 1. Dramanice (most recommended)
-[Watch asian drama online free - Asian movies english sub](https://dramanice.cx/about-us)
+[Dramanice link here](https://dramanice.cx/about-us)
 
 ### 2. Dramacool
-[DramaCool - watch asian drama online in high quality](https://dramacool.ac/)
+[DramaCool link here](https://dramacool.ac/)
 
 ### 3. Kissasian
-[Kissasian.sh: Watch asian drama and shows free in HD (2022)](https://kissasian.la/)
+[kissasian link here](https://kissasian.la/)
 
 ## **Apps/Software**
 ### 1. Stremio (Not all are available but it has many)
-[Downloads - Stremio - All You Can Watch](https://www.stremio.com/downloads)
+[Downloads Stremio here](https://www.stremio.com/downloads)
 
 ### 2. Viu (recommended)
 
