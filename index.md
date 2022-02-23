@@ -51,7 +51,7 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 (Turn on captions in the trailer for english subtitles)
 
 
-## 3. Our 30-minute Sessions
+## 4. Our 30-minute Sessions
 
 **Synopsis:** Aki Miyata was a musician and died 1 year ago. He had a bright and positive personality. Sota Kubota is a university student. He is not good at socializing with people. One day, Sota Kubota picks up a cassette tape, which was left by Aki Miyata. If Sota Kubota plays the cassette tape, Aki Miyata’s spirit takes over Sota Kubota's body for only 30 minutes. With Aki Miyata's spirit in his body, Sota Kubota goes to see Aki's former girlfriend Kana Murase and his other bandmates.
  
@@ -62,6 +62,18 @@ The movie was awesome. A sci-fi movie that should be watched. go go!
 **Trailer:**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eEIs4DC4uQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 (Turn on captions in the trailer for english subtitles)
+
+## 4. My little monster
+
+**Synopsis:** Mizutani Shizuku is a self-absorbed overachiever, concerned only with maintaining the highest grades in school. Yoshida Haru is an impulsive short tempered brute, who scares everyone with his explosive bursts of violence.Haru gets suspended on the first day of school when he encounters some bullies harassing a student and dispatches the bullies with great bloody violence. Mizutani is tasked with delivering school materials to Haru who interprets this as an act of friendship and latches on to Mizutani, much to her dismay. And so begins a strange and potentially combustible relationship!
+ 
+**Genre:**    Comedy, Friendship, Romance, School
+
+![mylittlemonster](https://user-images.githubusercontent.com/99865483/155335470-719d3703-3069-4e00-b50e-edf71e7402e7.jpg)
+
+**Trailer:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cu_j-q_UpGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(Embedded with subtitles)
 
 
 [editor on GitHub](https://github.com/dreanicls/Andrea-s-Asian-Drama-Watchlist-kit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
